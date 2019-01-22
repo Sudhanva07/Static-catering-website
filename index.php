@@ -16,18 +16,11 @@
   <!-- 
 	//////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
+	
+	DESIGNED & DEVELOPED by The-INTERNS @ REVAALO
 		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
+  	////////////////////////////////////////////////////// -->
 
-	//////////////////////////////////////////////////////
-	 -->
-
-  	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
@@ -55,7 +48,7 @@
 	<link rel="stylesheet" href="css/flexslider.css">
 	<!-- Bootstrap  -->
 	<link rel="stylesheet" href="css/bootstrap.css">
-
+    <!-- Custom css properties -->
 	<link rel="stylesheet" href="css/style.css">
 
 
@@ -103,35 +96,31 @@
 		</div>
 
 		<div id="fh5co-sayings">
-			<div class="container">
+			<div class="container" >
 				<div class="row to-animate">
 
-					<div class="flexslider">
+					<div class="flexslider" >
+                        
 						<ul class="slides">
 							
-							<li>
+							<li class="image1">
+                                
 								<blockquote>
-									<img src="images/res_img_1.jpg">
+									<img src="images/breakfast.png" >
+                                </blockquote>   
+                                
+							</li>
+							<li Class="image2">
+								<blockquote>
+                                    <img src="images/lunch.png" >
+                                </blockquote>
+							</li>
+							<li Class="image3">
+								<blockquote>
+									<img src="images/snacks.png" >
 								</blockquote>
 							</li>
-							<li>
-								<blockquote>
-									<img src="images/res_img_2.jpg">
-								</blockquote>
-							</li>
-							<li>
-								<blockquote>
-									<img src="images/res_img_3.jpg">
-								</blockquote>
-							</li>
-							<li>
-								<blockquote>
-									<img src="images/res_img_4.jpg">
-								</blockquote>
-							</li>
-							
-							
-						</ul>
+<                         </ul>
 					</div>
 
 				</div>
