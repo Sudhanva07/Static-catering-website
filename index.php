@@ -109,142 +109,6 @@
     </div>
 
     <div id="fh5co-sayings">
-        <div class="container">
-            <div class="row to-animate">
-
-                <div class="flexslider">
-                    <ul class="slides">
-
-                        <li>
-                            <blockquote>
-                                <img src="images/res_img_1.jpg">
-                            </blockquote>
-                        </li>
-                        <li>
-                            <blockquote>
-                                <img src="images/res_img_2.jpg">
-                            </blockquote>
-                        </li>
-                        <li>
-                            <blockquote>
-                                <img src="images/res_img_3.jpg">
-                            </blockquote>
-                        </li>
-                        <li>
-                            <blockquote>
-                                <img src="images/res_img_4.jpg">
-                            </blockquote>
-                        </li>
-
-
-                    </ul>
-                </div>
-
-            </div>
-        </div>
-    </div>
-
-    <div id="fh5co-featured" data-section="features">
-        <div class="container">
-            <div class="row text-center fh5co-heading row-padded">
-                <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading to-animate">Featured Dishes</h2>
-                    <p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries
-                        Vokalia and Consonantia, there live the blind texts.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="fh5co-grid">
-                    <div class="fh5co-v-half to-animate-2">
-                        <div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_1.jpg)"></div>
-                        <div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
-                            <h2>Fresh Mushrooms</h2>
-                            <span class="pricing">$7.50</span>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                there live the blind texts.</p>
-                        </div>
-                    </div>
-                    <div class="fh5co-v-half">
-                        <div class="fh5co-h-row-2 to-animate-2">
-                            <div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_2.jpg)"></div>
-                            <div class="fh5co-v-col-2 fh5co-text arrow-left">
-                                <h2>Grilled Chiken Salad</h2>
-                                <span class="pricing">$12.00</span>
-                                <p>Far far away, behind the word mountains.</p>
-                            </div>
-                        </div>
-                        <div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-                            <div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_8.jpg)"></div>
-                            <div class="fh5co-v-col-2 fh5co-text arrow-right">
-                                <h2>Cheese and Garlic Toast</h2>
-                                <span class="pricing">$4.50</span>
-                                <p>Far far away, behind the word mountains.</p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="fh5co-v-half">
-                        <div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-                            <div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_7.jpg)"></div>
-                            <div class="fh5co-v-col-2 fh5co-text arrow-right">
-                                <h2>Organic Egg</h2>
-                                <span class="pricing">$4.99</span>
-                                <p>Far far away, behind the word mountains.</p>
-                            </div>
-                        </div>
-                        <div class="fh5co-h-row-2 to-animate-2">
-                            <div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_6.jpg)"></div>
-                            <div class="fh5co-v-col-2 fh5co-text arrow-left">
-                                <h2>Salad with Crispy Chicken</h2>
-                                <span class="pricing">$8.50</span>
-                                <p>Far far away, behind the word mountains.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="fh5co-v-half to-animate-2">
-                        <div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_3.jpg)"></div>
-                        <div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
-                            <h2>Tomato Soup with Chicken</h2>
-                            <span class="pricing">$12.99</span>
-                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                                there live the blind texts.</p>
-                        </div>
-                    </div>
-
-	
-		
-		<div class="js-sticky">
-			<div class="fh5co-main-nav">
-				<div class="container-fluid">
-					<div class="fh5co-menu-1">
-						<!-- <a href="#" data-nav-section="home">Home</a> -->
-						<a href="#" data-nav-section="home">Home</a>
-						<a href="#" data-nav-section="features">Features</a>
-					</div>
-					<div class="fh5co-logo">
-						<a href="index.html">ATUL</a>
-					</div>
-					<div class="fh5co-menu-2">
-						<a href="#" data-nav-section="menu">Menu</a>
-						<a href="#" data-nav-section="events">Events</a>
-						<a href="#" data-nav-section="reservation">About Us</a>
-					</div>
-				</div>
-				
-			</div>
-		</div>
-
-
-		<div id="fh5co-about" data-section="home">
-			<div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(images/res_img_1.jpg)"></div>
-			<div class="fh5co-2col fh5co-text">
-				<h2 class="heading to-animate">Gallery</h2>
-				<p class="to-animate"><span class="firstcharacter">F</span>ar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
-				<p class="text-center to-animate"><a href="#" class="btn btn-primary btn-outline">Get in touch</a></p>
-			</div>
-		</div>
-
-		<div id="fh5co-sayings">
 			<div class="container" >
 				<div class="row to-animate">
 
@@ -275,6 +139,11 @@
 				</div>
 			</div>
 		</div>
+
+   
+		
+
+		
 
 		<div id="fh5co-featured" data-section="features">
 			<div class="container">
@@ -347,25 +216,6 @@
 		</div>
 
 	
-
-		<div id="fh5co-menus" data-section="menu">
-			<div class="container">
-				<div class="row text-center fh5co-heading row-padded">
-					<div class="col-md-8 col-md-offset-2">
-						<h2 class="heading to-animate">Food Menu</h2>
-						<p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-					</div>
-				</div>
-				<section id="menu" class="parallax-section menu">
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-
     <div id="fh5co-menus" data-section="menu">
         <div class="container">
             <div class="row text-center fh5co-heading row-padded">
@@ -889,93 +739,9 @@
                                     </table>
 
                                 </div>
-                                <!-- birthday -->
-                                <div class="tab-pane " id="birthday">
-                                    <h3>Birthday Catering</h3>
-                                    <ol>
-                                        <li><strong>Welcome Juice</strong></li>
-                                        <li><strong>Seasonal Fruit Juice</strong></li>
-                                        <li><strong>Sweet: - Solid</strong><br>
-                                            ( Angoor Rasmalai / Anjur Burfi / Badham Burfi / Badham Puri / Badhusha /
-                                            Bele Holige / Channa Dal Holige / Boondhi Ladu / Burfi
-                                            – Assorted / Carrat Halwa / Cashew Burfi / Chandra Kala / Chandra Hara /
-                                            Chiroti / Chocolate Burfi / Chum Chum / Coconut
-                                            Holige / Coconut LAdu / Damroot / Dates Holige / Dry Jamoon / Fruit Burfi /
-                                            Ginger Burfi / Gulab Jamoon / Jahangir / Jilebi –
-                                            Hot / Kala Jamoon / Kesari Peni / Malpoa Rabdi / Mango Burfi / Mohan Ladu /
-                                            Mothichur Ladu / Mysore Pak – Special / Pheni /
-                                            Pineapple Burfi / Rabdi / Rajbhog / Rasgulla / Raskadam / Rasmadhuri /
-                                            Rasmalai / Rasamanjari / Rava Ladu / Sandwich Honeydew
-                                            / Sonapapdi / Sugar Holige / Surya Kala …..etc)</li>
-                                        <li><strong>Sweet: - Liquid</strong><br>
-                                            (Semiya Payasam / Sabbakki Payasam / Rice Kheer / Kesari bath / Kadle bele
-                                            Payasam/ Ada Payasam / Custurd / Dates Payasam /
-                                            Jack Fruit Payasam / Moong Dal Payasam / Pal Payasam / Rava Green Gram
-                                            Payasam / Wheet Payasam)</li>
-                                        <li><strong>Soup</strong><br>
-                                            ( Sweet Corn / Tomato / Celery / Vegetables / Leaves …..etc)</li>
-                                        <li><strong>Salad Counter</strong><br>
-                                            (Pineapple Mint/ Kosumbary / Sprout / Garden Fresh Grean Salad/ Corn +
-                                            Peanut + Pomegranate)</li>
-                                        <li><strong>Veg Starter</strong><br>
-                                            (Paneer Manchurian / Gobi Manchirian / Gobi 65” / Bhind Jaipuri / Baby Corn
-                                            Manchurian / Harabara Veg / Veg Manchurian / Assorted Rolls / Gobi Chilly /
-                                            Paneer Chilli / Mashrrom Manchurian …..Etc)</li>
-                                        <li><strong>Pakodas / Bhajis</strong><br>
-                                            (Chilli Bhaji / Onion pakoda / Capsicum Bhaji / Finger Chips / Cutlet /
-                                            Onion Pakoda / Samosa / Kachories / Assorted Bhajis or Vada / Assorted
-                                            Rolls …..etc)</li>
-                                        <li><strong>Indian Bread</strong><br>
-                                            (Special Chapathi / Pulkas / Poori / Roomali / Batura / Assorted Paratha/
-                                            Tandoori / Dosas)</li>
-                                        <li><strong>Gravy / Subji – Main Course</strong><br>
-                                            (Panner Kolhapuri/ / Paneer Butter Masala / Corn Kadai / GobiTikka / Palak
-                                            Paneer / Channa Masala / Aloo Gobi / Aloo Bhindi / Veg Kadai / Aloo Mutter
-                                            / Paneer Kadai / Bhindi Do Pyaza / Aloo Dum / Rajma Masala / Cashwe Pepper
-                                            Masala / Mashroom Masala / Veg Nellur Kurma / Fresh Pease Kurma / Veg Kurma
-                                            / Veg Kolhapuri / Malai Koftha Curry / Stuffed Capsicum / Veg Koftha Curry
-                                            / Baigon Peanut Masala / Veg Hariyali / Veg Do Pyaza / Mix Veg Stew…..Etc)</li>
-                                        <li><strong>Veg Subji / Palya</strong><br>
-                                            (Mix Veg Palya / Channa Sundal / Beans + Cashew Palya / Tindly + Cashew /
-                                            Aloo Mutter / Paneer Kadai / Assorted Seads Palya /
-                                            Veg Kadai / Aloo Bhindi / Veg Do Pyaza / Bhindi Do Pyaza / Aloo Gobi / Gobi
-                                            Mutter / Chole Semi Dry / Aloo Capsicum / Aloo
-                                            Channa / Mix Veg Pepper Dry / …..etc)</li>
-                                        <li><strong>Sides</strong><br>
-                                            (Pineapple Gojju / Mudhuli / Assorted Chutney / Tomato Onion Chutney /
-                                            Gongu Chutney / Chutney Powder / Dhahi Vada ….. etc)</li>
-                                        <li><strong>Flavoured Rice – 1st</strong><br>
-                                            (Veg Basumathi Dum Biriyani / Veg Pulav / Bisibele Bath / Ghee Rice / Vangi
-                                            Bath / / Tomato Rice / Methi Bath / Paes Pulav / Corn
-                                            Pulav / Punjabi Biriyani / Mashroom Pulav / Pudhina Pulav…..etc)</li>
-                                        <li><strong>Raitha</strong><br>
-                                            (Cucumber Raitha / Tomato + Onion Raitha / Boondhi Raitha)</li>
-                                        <li><strong>Plain Rice </strong></li>
-                                        <li><strong>Dal</strong><br>
-                                            (Dal Makhani / Dal Palak / Dal Fry / Dal Fry / Dal Tadka …..etc)</li>
-                                        <li><strong>Sambar</strong><br>
-                                            (Varities of Sambar / Huli / Kolombo)</li>
-                                        <li><strong>Rasam</strong><br>
-                                            ( Ayangar rasam / Masala Rasam / Pepper Rasam / Garlic Rasam / Ginger Rasam
-                                            / Lemon Rasam / Coriender Rasam / Tomato Rasam / Jeera Rasam / Thili saru)</li>
-                                        <li><strong>Papad </strong><br>
-                                            (Masal/Dry/Fryems/Sandige /Finger Chips)</li>
-                                        <li><strong>Curd</strong></li>
-                                        <li><strong> Fruits Curd Rice</strong></li>
-                                        <li><strong> Special Butter Milk</strong></li>
-                                        <li><strong> Pickle</strong></li>
-                                        <li><strong> Salt</strong></li>
-                                        <li><strong> Sugar</strong></li>
-                                        <li><strong> Sweet Sompu</strong></li>
-                                        <li><strong> Ice Cream Counter Varity of Flavored Cups / Slice</strong></li>
-                                        <li><strong>Fruit Salad / Fruit Custard / Fruit</strong></li>
-                                        <li><strong>Pan Beeda</strong></li>
-                                        <li><strong> Mineral Water - Bottle</strong></li>
-                                    </ol>
-
-                                </div>
-                            </div>
-                        </div>
+                               
+                            
+                        
             </section>
         </div>
     </div>
