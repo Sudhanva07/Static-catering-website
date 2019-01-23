@@ -120,7 +120,7 @@
                                 
 								<blockquote>
                                     <img src="images/breakfast.png"  height="42" width="42" class = "image">
-                                    <a href="#menu">
+                                    <a href="#fh5co-menus">
                                     <div class="overlay">
                                         <div class="text">Breakfast</div>
                                     </div></a>
@@ -130,7 +130,7 @@
 							<li Class="image2">
 								<blockquote>
                                     <img src="images/lunch.png"  height="42" width="42" class = "image">
-                                    <a href="#menu">
+                                    <a href="#fh5co-menus">
                                     <div class="overlay">
                                         
                                         <div class="text">Lunch</div>
@@ -140,7 +140,7 @@
 							<li Class="image3">
 								<blockquote>
                                     <img src="images/snacks.png"  height="42" width="42" class = "image">
-                                    <a href="#menu">
+                                    <a href="#fh5co-menus">
                                     <div class="overlay">
                                        
                                         <div class="text">Snacks</div>
