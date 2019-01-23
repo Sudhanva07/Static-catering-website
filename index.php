@@ -881,7 +881,7 @@
         <div class="container">
             <div class="row text-center fh5co-heading row-padded">
                 <div class="col-md-8 col-md-offset-2">
-                    <h2 class="heading to-animate">Contact us</h2>
+                    <h2 class="heading to-animate">Contact Us</h2>
                     <p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries
                         Vokalia and Consonantia, there live the blind texts.</p>
                 </div>
