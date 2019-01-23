@@ -119,18 +119,18 @@
 							<li class="image1">
                                 
 								<blockquote>
-									<img src="images/breakfast.png" >
+									<img src="images/breakfast.png"  height="42" width="42">
                                 </blockquote>   
                                 
 							</li>
 							<li Class="image2">
 								<blockquote>
-                                    <img src="images/lunch.png" >
+                                    <img src="images/lunch.png"  height="42" width="42">
                                 </blockquote>
 							</li>
 							<li Class="image3">
 								<blockquote>
-									<img src="images/snacks.png" >
+									<img src="images/snacks.png"  height="42" width="42">
 								</blockquote>
 							</li>
                       </ul>
@@ -239,7 +239,7 @@
 
                             <ul class="nav nav-tabs nav-justified" >
                                 <li class="nav-item"><a class="nav-link active" href="#Breakfast" data-toggle="tab">Daily Breakfast</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#Lunch" data-toggle="tab">Daily Breakfast</a></li>
+                                <li class="nav-item"><a class="nav-link" href="#Lunch" data-toggle="tab">Daily lunch</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#Snacks" data-toggle="tab">Daily Snacks</a></li>
                             </ul>
 
@@ -248,7 +248,7 @@
                         <div class="col-md-12 to-animate">
                             <!-- Tab panes -->
                             <div class="tab-content" width="100%">
-                                <div class="tab-pane active" id="Lunch">
+                                <div class="tab-pane" id="Lunch">
                                     <table class="table" width="100%">
                                     
                                             <h2>Standard Daily Lunch/ Dinner Menu</h2>
@@ -356,386 +356,84 @@
                                     </table>
                                 </div>
                                 <!-- wedding -->
-                                <div class="tab-pane " id="Breakfast">
-                                    <h2>Wedding / Reception Catering</h2>
-                                    <table class="menu-table">
-                                        <tr>
-                                            <td>MODERATE MENU / EXECUTIVE MENU / VIP MENU (The below menu is applicable
-                                                for table services and Buffet Services.) <br>
-                                                Kindly select the required items and send to us finalized menu for BEST
-                                                QUOTE
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <th>Reception Day –Evening Tiffin / Snacks</th>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <h3> Sweet: - Solid </h3>
-                                                <ul>
-                                                    <li>( Angoor Rasmalai / Anjur Burfi / Badham Burfi / Badham Puri /
-                                                        Badhusha / Bele Holige / Channa Dal Holige / Boondhi Ladu /
-                                                        Burfi – Assorted / Carrat Halwa / Cashew Burfi / Chandra Kala /
-                                                        Chandra Hara / Chiroti / Chocolate Burfi / Chum Chum / Coconut
-                                                        Holige / Coconut LAdu / Damroot / Dates Holige / Dry Jamoon /
-                                                        Fruit Burfi / Ginger Burfi / Gulab Jamoon / Jahangir / Jilebi –
-                                                        Hot / Kala Jamoon / Kesari Peni / Malpoa Rabdi / Mango Burfi /
-                                                        Mohan Ladu / Mothichur Ladu / Mysore Pak – Special / Pheni /
-                                                        Pineapple Burfi / Rabdi / Rajbhog / Rasgulla / Raskadam /
-                                                        Rasmadhuri / Rasmalai / Rasamanjari / Rava Ladu / Sandwich
-                                                        Honeydew / Sonapapdi / Sugar Holige / Surya Kala
-                                                        …..etc)
-                                                    </li>
-                                                    <li>Idli 2 nos + Vada 1 no + Sambar + Chutney</li>
-                                                    <li>Assorted Dosas + Sambar + Sagu + Chutney</li>
-                                                    <li>Chow Chow Bath + Chutney</li>
-                                                    <li>Semiya Bath + Masala Vada + Chutney</li>
-                                                    <li>Poha + Masala Vada + Chutney</li>
-                                                    <li>Batura + Channa Masala </li>
-                                                    <li>Neer Dosa + Chutney</li>
-                                                    <li>Assorted Bhajies + Chutney</li>
-                                                    <li>Assorted Pakodas + Chutney</li>
-                                                    <li>Dhahi Vada </li>
-                                                    <li>Veg Samosa + Sweet Chutney + Khara Chutney</li>
-                                                    <li>Kachories + Sweet Chutney + Khara Chutney</li>
-                                                    <li>Banana Buns + Chutney</li>
-                                                    <li>Spring Rolls + Sauce</li>
-                                                    <li>Masala Vada + Chutney</li>
-                                                    <li>Masala Bun + Sauce</li>
-                                                    <li>Assorted Veg Bonda + Chutney ……….etc</li>
-                                                    <li>Coffee</li>
-                                                    <li>Tea</li>
-                                                    <li>Badham Milk</li>
-                                                    <li>Horlicks</li>
-                                                    <li>Bournvita</li>
-                                                    <li>Boost</li>
-                                                    <li>Seasonal Fruit Juices</li>
-                                                </ul>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <h3> Reception Day- Dinner </h3>
-                                                <ul>
-                                                    <li><strong>Welcome Juice:</strong><br> Seasonal Fruit Juice</li>
-                                                    <li><strong>Chats Counter :</strong> </li>
-                                                    <li><strong>Sweet:</strong><br> - Solid : ( Angoor Rasmalai / Anjur
-                                                        Burfi / Badham Burfi / Badham Puri / Badhusha / Bele Holige /
-                                                        Channa
-                                                        Dal Holige / Boondhi Ladu / Burfi – Assorted / Carrat Halwa /
-                                                        Cashew Burfi / Chandra Kala / Chandra Hara / Chiroti /
-                                                        Chocolate Burfi / Chum Chum / Coconut Holige / Coconut LAdu /
-                                                        Damroot / Dates Holige / Dry Jamoon / Fruit Burfi /
-                                                        Ginger Burfi / Gulab Jamoon / Jahangir / Jilebi – Hot / Kala
-                                                        Jamoon / Kesari Peni / Malpoa Rabdi / Mango Burfi /
-                                                        Mohan Ladu / Mothichur Ladu / Mysore Pak – Special / Pheni /
-                                                        Pineapple Burfi / Rabdi / Rajbhog / Rasgulla /
-                                                        Raskadam / Rasmadhuri / Rasmalai / Rasamanjari / Rava Ladu /
-                                                        Sandwich Honeydew / Sonapapdi / Sugar Holige /
-                                                        Surya Kala …..etc)</li>
-                                                    <li><strong>Sweet:</strong><br> - Liquid
-                                                        (Semiya Payasam / Sabbakki Payasam / Rice Kheer / Kesari bath /
-                                                        Kadle bele Payasam/ Ada Payasam / Custurd /Dates Payasam / Jack
-                                                        Fruit Payasam / Moong Dal Payasam / Pal Payasam / Rava Grean
-                                                        Gram Payasam / Wheet
-                                                        Payasam) </li>
-                                                    <li><strong>Soup : </strong><br>
-                                                        ( Sweet Corn / Tomato / Celery / Vegitables / Leaves …..etc)
-                                                    <li><strong>Salad Counter:</strong><br>
-                                                        (Pineapple Mint/ Kosumbary / Sprout / Garden Fresh Grean Salad/
-                                                        Corn + Peanut + Pomogrinite)</li>
-                                                    <li><strong>Veg startrer:</strong><br>
-                                                        (Paneer Manchurian / Gobi Manchirian / Gobi 65” / Bhind Jaipuri
-                                                        / Baby Corn Manchurian / Harabara Veg / Veg/Manchurian /
-                                                        Assorted Rolls / Gobi Chilly / Paneer Chilli / Mashrrom
-                                                        Manchurian …..Etc)
-                                                        8) Pakodas / Bhajis: (Chilli Bhaji / Onion pakoda / Capsicum
-                                                        Bhaji / Finger Chips / Cutlet / Onion Pakoda / Samosa /
-                                                        Kachories / Assorted Bhajis or Vada / Assorted Rolls …..etc)</li>
-                                                    <li><strong>Indian Bread: </strong>
-                                                        (Special Chapathi / Pulkas / Poori / Roomali / Batura /
-                                                        Assorted Paratha/ Tandoori / Dosas)</li>
-                                                    <li><strong>Gravey / Subji – Main Course:</strong><br>
-                                                        ( select 2 or more items)
-                                                        (Panner Kolhapuri/ / Paneer Butter Masala / Corn Kadai /
-                                                        GobiTikka / Palak Paneer / Channa Masala / Aloo Gobi /
-                                                        Aloo Bhindi / Veg Kadai / Aloo Mutter / Paneer Kadai / Bhindi
-                                                        Do Pyaza / Aloo Dum / Rajma Masala / Cashwe Pepper Masala /
-                                                        Mashroom Masala / Veg Nellur Kurma / Fresh Pease Kurma / Veg
-                                                        Kurma / Veg Kolhapuri / Malai Koftha Curry / Stuffed Capsicum /
-                                                        Veg Koftha Curry / Baigon Peanut Masala / Veg Hariyali / Veg Do
-                                                        Pyaza / Mix Veg Stew…..Etc)</li>
-                                                    <li><strong>Veg Subji / Palya:</strong> <br>
-                                                        ( Select 2 or More items)
-                                                        (Mix Veg Palya / Channa Sundal / Beans + Cashew Palya / Tindly
-                                                        + Cashew / Aloo Mutter / Paneer Kadai / Assorted Seads Palya /
-                                                        Veg Kadai / Aloo Bhindi / Veg Do Pyaza / Bhindi Do Pyaza / Aloo
-                                                        Gobi / Gobi Mutter / Chole Semi Dry / Aloo Capsicum / Aloo
-                                                        Channa / Mix Veg Pepper Dry / …..etc)</li>
-                                                    <li><strong>Sides: </strong><br>
-                                                        (Pineapple Gojju / Mudhuli / Assorted Chutney / Tomato Onion
-                                                        Chutney / Gongu Chutney / Chutney Powder / Dhahi Vada ….. etc)</li>
-                                                    <li><strong>Flavoured Rice – 1st:</strong><br>
-                                                        (Veg Basumathi Dum Biriyani / Veg Pulav / Bisibele Bath / Ghee
-                                                        Rice / Vangi Bath / / Tomato Rice / Methi Bath /Paes Pulav /
-                                                        Corn Pulav / Punjabi Biriyani / Mashroom Pulav / Pudhina
-                                                        Pulav…..etc)</li>
-                                                    <li> <strong>Flavoured Rice – 2nd:</strong><br>
-                                                        (Pulliogarai / Lemon Rice / Chithranna ..etc)
-                                                    <li> <strong>Raitha:</strong><br>(Cucumber Raitha / Tomato + Onion
-                                                        Raitha / Boondhi Raitha)</li>
-                                                    <li> <strong>Plain Rice:</strong> </li>
-                                                    <li> Dal: (Dal Makhani / Dal Palak / Dal Fry / Dal Fry / Dal Tadka
-                                                        …..etc)</li>
-                                                    <li> <strong>Sambar: </strong><br>
-                                                        (Varities of Sambar / Huli / Kolombo)</li>
-                                                    <li> <strong>Rasam :</strong><br> ( Ayangar rasam / Masala Rasam /
-                                                        Pepper Rasam / Garlic Rasam / Ginger Rasam / Lemon Rasam /
-                                                        Coriender Rasam / Tomato Rasam / Jeera Rasam / Thili saru)</li>
-                                                    <li> <strong>Papad:</strong><br> (Masal/Dry/Fryems/Sandige /Finger
-                                                        Chips)</li>
-                                                    <li> Curd </li>
-                                                    <li> Fruits Curd Rice </li>
-                                                    <li> Special Butter Milk</li>
-                                                    <li> Pickle</li>
-                                                    <li> Salt</li>
-                                                    <li> Sugar</li>
-                                                    <li> Sweet Sompu </li>
-                                                    <li> Ice Cream Counter : Varity of Flavored Cups / Slice</li>
-                                                    <li> Frut Salad / Fruit Custurd / Fruit</li>
-                                                    <li> Pan Beeda </li>
-                                                    <li> Tamboola</li>
-                                                    <li> Mineral Water – Bottle</li>
-                                                </ul>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <h3>Muhurtham Day – Breakfast </h3>
-                                                <ul>
-                                                    <li> Sweet</li>
-                                                    <li> Idli 2 nos + Vada 1 no + Sambar + Chutney</li>
-                                                    <li> Assorted Dosas + Sambar + Sagu + Chutney</li>
-                                                    <li> Chow Chow Bath + Chutney</li>
-                                                    <li> Assorted Pulav / Rice Bath + Raitha + Chutney</li>
-                                                    <li> Semiya Bath + Masala Vada + Chutney</li>
-                                                    <li> Poha + Masala Vada + Chutney</li>
-                                                    <li> Poori 3 nos + Bombay Sagu + chuTney</li>
-                                                    <li> Batura + Channa Masala </li>
-                                                    <li> Rava Idli + Sagu + Chutney</li>
-                                                    <li> Neer Dosa + Chutney</li>
-                                                    <li> Paratha 2 nos (Aloo or Gobi or oNion ) + Curd</li>
-                                                    <li> Pongal + Raitha + Chutney</li>
-                                                    <li> Bisibele bath + Boondhi + Raitha</li>
-                                                    <li> Coffee</li>
-                                                    <li> Tea</li>
-                                                    <li> Badham milk</li>
-                                                    <li> Horlicks</li>
-                                                    <li> Bournvita</li>
-                                                    <li> Boost</li>
-                                                    <li> Seasonal fruit juices</li>
-                                                </ul>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <h3>Muhurtham Day- Lunch</h3>
-                                                <ul>
-                                                    <li><strong> Welcome Juice:</strong><br> Seasonal Fruit Juice</li>
-                                                    <li><strong> Chats Counter : </strong><br>
-                                                    <li><strong> Sweet: - Solid :</strong><br> ( Angoor Rasmalai /
-                                                        Anjur Burfi / Badham Burfi / Badham Puri / Badhusha / Bele
-                                                        Holige / Channa Dal Holige / Boondhi Ladu / Burfi – Assorted /
-                                                        Carrat Halwa / Cashew Burfi / Chandra Kala / Chandra Hara /
-                                                        Chiroti / Chocolate Burfi / Chum Chum / Coconut Holige /
-                                                        Coconut LAdu / Damroot / Dates Holige / Dry Jamoon / Fruit
-                                                        Burfi / Ginger Burfi / Gulab Jamoon / Jahangir / Jilebi – Hot /
-                                                        Kala Jamoon / Kesari Peni / Malpoa Rabdi / Mango Burfi / Mohan
-                                                        Ladu / Mothichur Ladu / Mysore Pak – Special / Pheni /
-                                                        Pineapple Burfi / Rabdi / Rajbhog / Rasgulla / Raskadam /
-                                                        Rasmadhuri / Rasmalai / Rasamanjari / Rava Ladu / Sandwich
-                                                        Honeydew / Sonapapdi / Sugar Holige / Surya Kala …..etc)</li>
-                                                    <li><strong> Sweet:</strong><br> - Liquid
-                                                        (Semiya Payasam / Sabbakki Payasam / Rice Kheer / Kesari bath /
-                                                        Kadle bele Payasam/ Ada Payasam / Custurd / Dates Payasam /
-                                                        Jack Fruit Payasam / Moong Dal Payasam / Pal Payasam / Rava
-                                                        Grean Gram Payasam / Wheet Payasam)
-                                                    <li><strong> Soup :</strong><br> ( Sweet Corn / Tomato / Celery /
-                                                        Vegitables / Leaves …..etc) </li>
-                                                    <li><strong> Salad Counter:</strong><br>
-                                                        (Pineapple Mint/ Kosumbary / Sprout / Garden Fresh Grean Salad/
-                                                        Corn + Peanut + Pomogrinite)</li>
-                                                    <li><strong> Veg startrer: </strong><br>
-                                                        (Paneer Manchurian / Gobi Manchirian / Gobi 65” / Bhind Jaipuri
-                                                        / Baby Corn Manchurian / Harabara Veg / Veg Manchurian /
-                                                        Assorted Rolls / Gobi Chilly / Paneer Chilli / Mashrrom
-                                                        Manchurian …..Etc) </li>
-                                                    <li><strong> Pakodas / Bhajis:</strong><br> (Chilli Bhaji / Onion
-                                                        pakoda / Capsicum Bhaji / Finger Chips / Cutlet / Onion Pakoda
-                                                        / Samosa / Kachories / Assorted Bhajis or Vada / Assorted Rolls
-                                                        …..etc)</li>
-                                                    <li><strong> Indian Bread:</strong><br> (Special Chapathi / Pulkas
-                                                        / Poori / Roomali / Batura / Assorted Paratha/ Tandoori /
-                                                        Dosas)</li>
-                                                    <li><strong> Gravey / Subji – Main Course:</strong><br> ( select 2
-                                                        or more items)
-                                                        (Panner Kolhapuri/ / Paneer Butter Masala / Corn Kadai /
-                                                        GobiTikka / Palak Paneer / Channa Masala / Aloo Gobi / Aloo
-                                                        Bhindi / Veg Kadai / Aloo Mutter / Paneer Kadai / Bhindi Do
-                                                        Pyaza / Aloo Dum / Rajma Masala / Cashwe Pepper Masala /
-                                                        Mashroom Masala / Veg Nellur Kurma / Fresh Pease Kurma / Veg
-                                                        Kurma / Veg Kolhapuri / Malai Koftha Curry / Stuffed Capsicum /
-                                                        Veg Koftha Curry / Baigon Peanut Masala / Veg Hariyali / Veg Do
-                                                        Pyaza / Mix Veg Stew…..Etc)</li>
-                                                    <li><strong> Veg Subji / Palya:</strong><br> ( Select 2 or More
-                                                        items)
-                                                        (Mix Veg Palya / Channa Sundal / Beans + Cashew Palya / Tindly
-                                                        + Cashew / Aloo Mutter / Paneer Kadai / Assorted Seads Palya /
-                                                        Veg Kadai / Aloo Bhindi / Veg Do Pyaza / Bhindi Do Pyaza / Aloo
-                                                        Gobi / Gobi Mutter / Chole Semi Dry / Aloo Capsicum / Aloo
-                                                        Channa / Mix Veg Pepper Dry / …..etc)</li>
-                                                    <li><strong> Sides:</strong><br> (Pineapple Gojju / Mudhuli /
-                                                        Assorted Chutney / Tomato Onion Chutney / Gongu Chutney /
-                                                        Chutney Powder / Dhahi Vada ….. etc)</li>
-                                                    <li><strong> Flavoured Rice – 1st:</strong><br> (Veg Basumathi Dum
-                                                        Biriyani / Veg Pulav / Bisibele Bath / Ghee Rice / Vangi Bath /
-                                                        Tomato Rice / Methi Bath / Paes Pulav / Corn Pulav / Punjabi
-                                                        Biriyani / Mashroom Pulav / Pudhina Pulav…..etc)</li>
-                                                    <li><strong> Flavoured Rice – 2nd:</strong><br> (Pulliogarai /
-                                                        Lemon Rice / Chithranna ..etc)</li>
-                                                    <li><strong>) Raitha:</strong><br> (Cucumber Raitha / Tomato +
-                                                        Onion Raitha / Boondhi Raitha)</li>
-                                                    <li><strong> Plain Rice:</strong><br>
-                                                    <li><strong> Dal:</strong><br> (Dal Makhani / Dal Palak / Dal Fry /
-                                                        Dal Fry / Dal Tadka …..etc)</li>
-                                                    <li><strong> Sambar:</strong><br> (Varities of Sambar / Huli /
-                                                        Kolombo)
-                                                    <li><strong> Rasam :</strong><br> ( Ayangar rasam / Masala Rasam /
-                                                        Pepper Rasam / Garlic Rasam / Ginger Rasam / Lemon Rasam
-                                                        /Coriender Rasam / Tomato Rasam / Jeera Rasam / Thili saru)</li>
-                                                    <li><strong> Papad:</strong><br> (Masal/Dry/Fryems/Sandige /Finger
-                                                        Chips)</li>
-                                                    <li><strong> Curd</strong></li>
-                                                    <li><strong> Fruits Curd Rice</strong></li>
-                                                    <li><strong> Special Butter Milk</strong></li>
-                                                    <li><strong> Pickle</strong></li>
-                                                    <li><strong> Salt</strong></li>
-                                                    <li><strong> Sugar</strong></li>
-                                                    <li><strong> Sweet Sompu</strong></li>
-                                                    <li><strong> Ice Cream Counter : Varity of Flavored Cups / Slice</strong></li>
-                                                    <li><strong> Frut Salad / Fruit Custurd / Fruit</strong></li>
-                                                    <li><strong> Pan Beeda</strong></li>
-                                                    <li><strong> Tamboola</strong></li>
-                                                    <li><strong> Mineral Water - Bottle</strong></li>
-                                                </ul>
-                                            </td>
-                                        </tr>
-                                    </table>
-
-                                </div>
+                                <div class="tab-pane active" id="Breakfast">
+                                    <table class="table" width="100%">
+                                    
+                                            <h2>Standard Daily Lunch/ Dinner Menu</h2>
+                                            <h3>Kindly Choose the required items only and send to us for Best Quote</h3>
+                                            <tr>
+                                                
+                                                    <th>Idli 2No's/( Millets Idli)+Vada 1No+Sambar+Chutney</th></tr>
+                                                    <th>Assorted Dosa/(Millets Dosa)+Sambar+Chutney+Sagu</th></tr>
+                                                    <th>Chow Chow Bath/(Millets)+Chutney</th></tr>
+                                                    <th>Assorted Pulav+Rice Bath+Raitha+Chutney</th></tr>
+                                                    <th>Semiya Bath+Masala Vada+Chutney</th></tr>
+                                                    <th>Poori 3No's+Bombay Sagu+Chutney</th></tr>
+                                                    <th>Poha+Masala vada+Chutney</th></tr>
+                                                    <th>Batura+Channa Masala</th></tr>
+                                                    <th>Rava Idli+Sagu+Chutney</th></tr>
+                                                    <th>Neer Dosa+ Tamato Chutney</th></tr>
+                                                    <th>Paratha 2 No's(Aloo/Gobi/ Onion Methi)+Curd</th></tr>
+                                                    <th>Pongal + Raitha + Chutney</th></tr>
+                                                    <th>Bisibele Bath + Boondhi + Raitha</th></tr>
+                                                    <th>Mangalore Bonda+ Sambar+ Chutney</th></tr>
+                                            
+                                            </tr>
+                                        </table>
+                                    </div>
                                 <!-- house-warming -->
-                                <div class="tab-pane " id="Snacks">
-                                    <h2>House Warming Catering</h2>
-                                    <table class="menu-table">
-                                        <tr>
-                                            <td> Executive Lunch / Dinner Menu <br>
-                                                The below menu is applicable for table services and Buffet Services.
-                                                <br>
-                                                Kindly select the required items and send to us finalized menu for BEST
-                                                QUOTE
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td>
-                                                <ul>
-                                                    <li><strong>Welcome Juice</strong></li>
-                                                    <li><strong>Seasonal Fruit Juice</strong></li>
-                                                    <li><strong>Sweet: - Solid</strong><br>
-                                                        ( Angoor Rasmalai / Anjur Burfi / Badham Burfi / Badham Puri /
-                                                        Badhusha / Bele Holige / Channa Dal Holige / Boondhi Ladu /
-                                                        Burfi – Assorted / Carrat Halwa / Cashew Burfi / Chandra Kala /
-                                                        Chandra Hara / Chiroti / Chocolate Burfi / Chum Chum / Coconut
-                                                        Holige / Coconut LAdu / Damroot / Dates Holige / Dry Jamoon /
-                                                        Fruit Burfi / Ginger Burfi / Gulab Jamoon / Jahangir / Jilebi –
-                                                        Hot / Kala Jamoon / Kesari Peni / Malpoa Rabdi / Mango Burfi /
-                                                        Mohan Ladu / Mothichur Ladu / Mysore Pak – Special / Pheni /
-                                                        Pineapple Burfi / Rabdi / Rajbhog / Rasgulla / Raskadam /
-                                                        Rasmadhuri / Rasmalai / Rasamanjari / Rava Ladu / Sandwich
-                                                        Honeydew / Sonapapdi / Sugar Holige / Surya Kala …..etc)</li>
-                                                    <li><strong>Sweet: - Liquid</strong><br>
-                                                        (Semiya Payasam / Sabbakki Payasam / Rice Kheer / Kesari bath /
-                                                        Kadle bele Payasam/ Ada Payasam / Custurd / Dates Payasam /
-                                                        Jack Fruit Payasam / Moong Dal Payasam / Pal Payasam / Rava
-                                                        Green Gram Payasam / Wheet Payasam) </li>
-                                                    <li><strong>Soup</strong><br>
-                                                        ( Sweet Corn / Tomato / Celery / Vegetables / Leaves …..etc)</li>
-                                                    <li><strong>Salad Counter</strong><br>
-                                                        (Pineapple Mint/ Kosumbary / Sprout / Garden Fresh Grean Salad/
-                                                        Corn + Peanut + Pomegranate)</li>
-                                                    <li><strong>Veg Starter</strong><br>
-                                                        (Paneer Manchurian / Gobi Manchirian / Gobi 65” / Bhind Jaipuri
-                                                        / Baby Corn Manchurian / Harabara Veg / Veg Manchurian
-                                                        /Assorted Rolls / Gobi Chilly / Paneer Chilli / Mashrrom
-                                                        Manchurian …..Etc)</li>
-                                                    <li><strong>Pakodas / Bhajis</strong><br>
-                                                        (Chilli Bhaji / Onion pakoda / Capsicum Bhaji / Finger Chips /
-                                                        Cutlet / Onion Pakoda / Samosa / Kachories / Assorted Bhajis or
-                                                        Vada / Assorted Rolls …..etc)</li>
-                                                    <li><strong>Indian Bread</strong><br>
-                                                        (Special Chapathi / Pulkas / Poori / Roomali / Batura /
-                                                        Assorted Paratha/ Tandoori / Dosas)
-                                                    <li><strong>Gravy / Subji – Main Course </strong><br>
-                                                        (Panner Kolhapuri/ / Paneer Butter Masala / Corn Kadai /
-                                                        GobiTikka / Palak Paneer / Channa Masala / Aloo Gobi / Aloo
-                                                        Bhindi / Veg Kadai / Aloo Mutter / Paneer Kadai / Bhindi Do
-                                                        Pyaza / Aloo Dum / Rajma Masala / Cashwe Pepper Masala /
-                                                        Mashroom Masala / Veg Nellur Kurma / Fresh Pease Kurma / Veg
-                                                        Kurma / Veg Kolhapuri / Malai Koftha Curry / Stuffed Capsicum /
-                                                        Veg Koftha Curry / Baigon Peanut Masala / Veg Hariyali / Veg Do
-                                                        Pyaza / Mix Veg Stew…..Etc)</li>
-                                                    <li><strong>Veg Subji / Palya</strong><br>
-                                                        (Mix Veg Palya / Channa Sundal / Beans + Cashew Palya / Tindly
-                                                        + Cashew / Aloo Mutter / Paneer Kadai / Assorted Seads Palya /
-                                                        Veg Kadai / Aloo Bhindi / Veg Do Pyaza / Bhindi Do Pyaza / Aloo
-                                                        Gobi / Gobi Mutter / Chole Semi Dry / Aloo Capsicum / Aloo
-                                                        Channa / Mix Veg Pepper Dry / …..etc)</li>
-                                                    <li><strong>Sides</strong><br>
-                                                        (Pineapple Gojju / Mudhuli / Assorted Chutney / Tomato Onion
-                                                        Chutney / Gongu Chutney / Chutney Powder / Dhahi Vada ….. etc)</li>
-                                                    <li><strong>Flavoured Rice – 1st</strong><br>
-                                                        (Veg Basumathi Dum Biriyani / Veg Pulav / Bisibele Bath / Ghee
-                                                        Rice / Vangi Bath / / Tomato Rice / Methi Bath / Paes Pulav /
-                                                        Corn Pulav / Punjabi Biriyani / Mashroom Pulav / Pudhina
-                                                        Pulav…..etc)</li>
-                                                    <li><strong> Raitha</strong><br>
-                                                        (Cucumber Raitha / Tomato + Onion Raitha / Boondhi Raitha)</li>
-                                                    <li><strong>Plain Rice</strong>
-                                                    <li><strong>Dal</strong><br>
-                                                        (Dal Makhani / Dal Palak / Dal Fry / Dal Fry / Dal Tadka
-                                                        …..etc)</li>
-                                                    <li><strong>Sambar</strong><br>
-                                                        (Varities of Sambar / Huli / Kolombo)</li>
-                                                    <li><strong>Rasam</strong><br>
-                                                        ( Ayangar rasam / Masala Rasam / Pepper Rasam / Garlic Rasam /
-                                                        Ginger Rasam / Lemon Rasam / Coriender Rasam / Tomato Rasam /
-                                                        Jeera Rasam / Thili saru)</li>
-                                                    <li>Papad
-                                                        (Masal/Dry/Fryems/Sandige /Finger Chips)</li>
-                                                    <li>Curd</li>
-                                                    <li>Fruits Curd Rice </li>
-                                                    <li>Special Butter Milk</li>
-                                                    <li>Pickle</li>
-                                                    <li>Salt</li>
-                                                    <li>Sugar</li>
-                                                    <li>Sweet Sompu </li>
-                                                    <li>Ice Cream Counter Varity of Flavored Cups / Slice</li>
-                                                    <li>Fruit Salad / Fruit Custard / Fruit</li>
-                                                    <li>Pan Beeda </li>
-                                                    <li>Mineral Water – Bottle</li>
-                                                    <li>Tamboola</li>
-                                                </ul>
-                                            </td>
-                                        </tr>
+                                <div class="tab-pane" id="Snacks">
+                                    <table class="table" width="100%">
+                                    
+                                            <h2>Standard Daily Lunch/ Dinner Menu</h2>
+                                            <h3>Kindly Choose the required items only and send to us for Best Quote</h3>
+                                            <tr>
+                                                <th>Assorted Bhajies + Chutney</th>
+                                            </tr>
+                                            <tr>
+                                                <th>Assorted Pakodas + Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Dhahi vada + Sweet</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg samosa + Sweet Chutney + Khara Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Kachories + Sweet Chutney + Khara Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Banana buns + Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg Puffs + Sauce</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg Rolls + Sauce</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Masala Vada + Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Masala Bun + Saucey</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Onion Pakoda+ Palak Pakoda</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Assorted bhajji or Vadas</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg Cutlet</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Assorted Rolls</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Assorted Veg Bonda + Chutney</th>
+
+                                            </tr>
+                                        
                                     </table>
 
                                 </div>
@@ -763,7 +461,7 @@
                         <span class="fh5co-event-meta">March 19th, 2016</span>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                             there live the blind texts.</p>
-                        <p><a href="#" class="btn btn-primary btn-outline">Read More</a></p>
+                        
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -772,7 +470,7 @@
                         <span class="fh5co-event-meta">March 19th, 2016</span>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                             there live the blind texts.</p>
-                        <p><a href="#" class="btn btn-primary btn-outline">Read More</a></p>
+                        
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -781,7 +479,7 @@
                         <span class="fh5co-event-meta">March 19th, 2016</span>
                         <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
                             there live the blind texts.</p>
-                        <p><a href="#" class="btn btn-primary btn-outline">Read More</a></p>
+                        
                     </div>
                 </div>
             </div>

@@ -49,7 +49,9 @@
   opacity: 0.5;
 }*/
 
-
+img{
+  size: 50%;
+}
 
 .image1:hover {
   opacity: 0.3;
@@ -75,10 +77,11 @@
   font-style: normal;
 }
 
-#corporate{
+#Lunch,#Breakfast,#Snacks{
   align-content: center;
   text-align: center;
 }
+
 table{
   /* border: #222222;
   border-collapse: collapse; */
@@ -563,11 +566,11 @@ p {
 }
 
 #fh5co-sayings {
-  padding: 4em 0;
+  padding: 3em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-sayings {
-    padding: 3em 0;
+    padding: 2em 0;
   }
 }
 #fh5co-sayings .flexslider .slides li {
