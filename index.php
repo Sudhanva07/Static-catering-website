@@ -119,18 +119,32 @@
 							<li class="image1">
                                 
 								<blockquote>
-									<img src="images/breakfast.png"  height="42" width="42">
+                                    <img src="images/breakfast.png"  height="42" width="42" class = "image">
+                                    <a href="#menu">
+                                    <div class="overlay">
+                                        <div class="text">Breakfast</div>
+                                    </div></a>
                                 </blockquote>   
                                 
 							</li>
 							<li Class="image2">
 								<blockquote>
-                                    <img src="images/lunch.png"  height="42" width="42">
+                                    <img src="images/lunch.png"  height="42" width="42" class = "image">
+                                    <a href="#menu">
+                                    <div class="overlay">
+                                        
+                                        <div class="text">Lunch</div>
+                                    </div></a>
                                 </blockquote>
 							</li>
 							<li Class="image3">
 								<blockquote>
-									<img src="images/snacks.png"  height="42" width="42">
+                                    <img src="images/snacks.png"  height="42" width="42" class = "image">
+                                    <a href="#menu">
+                                    <div class="overlay">
+                                       
+                                        <div class="text">Snacks</div>
+                                    </div> </a>
 								</blockquote>
 							</li>
                       </ul>
@@ -237,7 +251,7 @@
                             <!-- required for floating -->
                             <!-- Nav tabs -->
 
-                            <ul class="nav nav-tabs nav-justified" >
+                            <ul class="nav nav-tabs nav-justified">
                                 <li class="nav-item"><a class="nav-link active" href="#Breakfast" data-toggle="tab">Daily Breakfast</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#Lunch" data-toggle="tab">Daily lunch</a></li>
                                 <li class="nav-item"><a class="nav-link" href="#Snacks" data-toggle="tab">Daily Snacks</a></li>
