@@ -74,6 +74,31 @@
   font-weight: normal;
   font-style: normal;
 }
+
+#corporate{
+  align-content: center;
+  text-align: center;
+}
+table{
+  /* border: #222222;
+  border-collapse: collapse; */
+  align-content: center;
+  text-align: center;
+}
+th{
+  text-align: center;
+  align-content: center;
+  width: 25%;
+}
+.table_headers{
+  text-align: center;
+  align-content: center;
+  width: 25%;
+}
+td{
+  text-align: left;
+  width: 25%;
+}
 body {
   font-family: "Merriweather", serif;
   font-size: 18px;
@@ -538,11 +563,11 @@ p {
 }
 
 #fh5co-sayings {
-  padding: 7em 0;
+  padding: 4em 0;
 }
 @media screen and (max-width: 768px) {
   #fh5co-sayings {
-    padding: 5em 0;
+    padding: 3em 0;
   }
 }
 #fh5co-sayings .flexslider .slides li {
