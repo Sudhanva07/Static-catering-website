@@ -18,16 +18,13 @@
     <!-- 
 	//////////////////////////////////////////////////////
 
-	FREE HTML5 TEMPLATE 
-	DESIGNED & DEVELOPED by FREEHTML5.CO
-		
-	Website: 		http://freehtml5.co/
-	Email: 			info@freehtml5.co
-	Twitter: 		http://twitter.com/fh5co
-	Facebook: 		https://www.facebook.com/fh5co
 
-	//////////////////////////////////////////////////////
-	 -->
+	
+	DESIGNED & DEVELOPED by The-INTERNS @ REVAALO
+		
+  	////////////////////////////////////////////////////// -->
+
+
 
     <!-- Facebook and Twitter integration -->
     <meta property="og:title" content="" />
@@ -214,6 +211,153 @@
                         </div>
                     </div>
 
+	
+		
+		<div class="js-sticky">
+			<div class="fh5co-main-nav">
+				<div class="container-fluid">
+					<div class="fh5co-menu-1">
+						<!-- <a href="#" data-nav-section="home">Home</a> -->
+						<a href="#" data-nav-section="home">Home</a>
+						<a href="#" data-nav-section="features">Features</a>
+					</div>
+					<div class="fh5co-logo">
+						<a href="index.html">ATUL</a>
+					</div>
+					<div class="fh5co-menu-2">
+						<a href="#" data-nav-section="menu">Menu</a>
+						<a href="#" data-nav-section="events">Events</a>
+						<a href="#" data-nav-section="reservation">About Us</a>
+					</div>
+				</div>
+				
+			</div>
+		</div>
+
+
+		<div id="fh5co-about" data-section="home">
+			<div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(images/res_img_1.jpg)"></div>
+			<div class="fh5co-2col fh5co-text">
+				<h2 class="heading to-animate">Gallery</h2>
+				<p class="to-animate"><span class="firstcharacter">F</span>ar far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
+				<p class="text-center to-animate"><a href="#" class="btn btn-primary btn-outline">Get in touch</a></p>
+			</div>
+		</div>
+
+		<div id="fh5co-sayings">
+			<div class="container" >
+				<div class="row to-animate">
+
+					<div class="flexslider" >
+                        
+						<ul class="slides">
+							
+							<li class="image1">
+                                
+								<blockquote>
+									<img src="images/breakfast.png" >
+                                </blockquote>   
+                                
+							</li>
+							<li Class="image2">
+								<blockquote>
+                                    <img src="images/lunch.png" >
+                                </blockquote>
+							</li>
+							<li Class="image3">
+								<blockquote>
+									<img src="images/snacks.png" >
+								</blockquote>
+							</li>
+                      </ul>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<div id="fh5co-featured" data-section="features">
+			<div class="container">
+				<div class="row text-center fh5co-heading row-padded">
+					<div class="col-md-8 col-md-offset-2">
+						<h2 class="heading to-animate">Featured Dishes</h2>
+						<p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="fh5co-grid">
+						<div class="fh5co-v-half to-animate-2">
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_1.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
+								<h2>Fresh Mushrooms</h2>
+								<span class="pricing">$7.50</span>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							</div>
+						</div>
+						<div class="fh5co-v-half">
+							<div class="fh5co-h-row-2 to-animate-2">
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_2.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-text arrow-left">
+									<h2>Grilled Chiken Salad</h2>
+									<span class="pricing">$12.00</span>
+									<p>Far far away, behind the word mountains.</p>
+								</div>
+							</div>
+							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_8.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-text arrow-right">
+									<h2>Cheese and Garlic Toast</h2>
+									<span class="pricing">$4.50</span>
+									<p>Far far away, behind the word mountains.</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="fh5co-v-half">
+							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_7.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-text arrow-right">
+									<h2>Organic Egg</h2>
+									<span class="pricing">$4.99</span>
+									<p>Far far away, behind the word mountains.</p>
+								</div>
+							</div>
+							<div class="fh5co-h-row-2 to-animate-2">
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_6.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-text arrow-left">
+									<h2>Salad with Crispy Chicken</h2>
+									<span class="pricing">$8.50</span>
+									<p>Far far away, behind the word mountains.</p>
+								</div>
+							</div>
+						</div>
+						<div class="fh5co-v-half to-animate-2">
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_3.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
+								<h2>Tomato Soup with Chicken</h2>
+								<span class="pricing">$12.99</span>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+			</div>
+		</div>
+
+	
+
+		<div id="fh5co-menus" data-section="menu">
+			<div class="container">
+				<div class="row text-center fh5co-heading row-padded">
+					<div class="col-md-8 col-md-offset-2">
+						<h2 class="heading to-animate">Food Menu</h2>
+						<p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+					</div>
+				</div>
+				<section id="menu" class="parallax-section menu">
+
                 </div>
             </div>
 
@@ -232,6 +376,7 @@
                 </div>
             </div>
             <section id="menu" class="parallax-section menu">
+
                 <div class="container">
                     <div class="row">
                         <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">

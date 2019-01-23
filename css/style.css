@@ -1,3 +1,72 @@
+
+/* The following code is to create a hover effect on the images to transfer control to the menu */
+/* .overlay1 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.overlay2 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.overlay3 {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+} 
+.container1:hover .overlay1 {
+  opacity: 0.5;
+}
+
+.container2:hover .overlay2 {
+  opacity: 0.5;
+}
+.container3:hover .overlay3 {
+  opacity: 0.5;
+}*/
+
+
+
+.image1:hover {
+  opacity: 0.3;
+  transition: all ease-in-out 1.25s;
+}
+
+
+.image2:hover {
+  opacity: 0.3;
+  transition: all ease-in-out 1.25s;
+}
+
+.image3:hover {
+  opacity: 0.3;
+  transition: all ease-in-out 1.25s;
+}
+
 @font-face {
   font-family: 'icomoon';
   src: url("../fonts/icomoon/icomoon.eot?srf3rx");
