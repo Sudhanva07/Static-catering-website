@@ -15,6 +15,7 @@
         // echo $selection;
         // echo $phno;
         
+        //made all the database column names small letters and the same changes are reflected in user.sql
         $query = "INSERT INTO user (username,email,datentime,feedback,selection,phno) values ('$usrname','$email','$datentime','$feedback','$selection','$phno')";
         // $sql = mysqli_query($cn,$qury);
         if(mysqli_query($cn,$query) === True){
