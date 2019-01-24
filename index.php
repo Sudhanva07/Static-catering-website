@@ -78,7 +78,7 @@
                 <div class="fh5co-menu-1">
                     <!-- <a href="#" data-nav-section="home">Home</a> -->
                     <a href="#" data-nav-section="home">Home</a>
-                    <a href="#" data-nav-section="features">Features</a>
+                    <a href="#" data-nav-section="features">Featured Dishes</a>
                 </div>
                 <div class="fh5co-logo">
                     <a href="index.html">ATUL</a>
@@ -98,12 +98,12 @@
         <div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(images/foodee.png)"></div>
         <div class="fh5co-2col fh5co-text">
             <h2 class="heading to-animate">About Us</h2>
-            <p class="to-animate"><span class="firstcharacter">W</span>e are introduce our self as leading Caterer in
-                Bangalore. Dealing with only Veg food like Mogulai,Chinese,North Indian,South Indian and
-                Speccialised in Andhra Style. Presently we are supplying Lunch for Corporate companies, We do cater to
-                Parties, Marriages, Events and Corporate Orders.
-                We are having experience in this feild more the 5 years with humble begining and we reached this
-                height. Contact for bulk orders between 9am to 9pm Only.</p>
+            <p class="to-animate"><span class="firstcharacter">W</span>introduce ourselves as the leading Caterer in
+                Bangalore. We deal with vegetarian food like Mogulai ,Chinese ,North Indian ,South Indian and
+                we are specialised in Andhra Style dishes.Currently we supply Lunch and Snacks for Corporate companies. We  also do cater to
+                Parties, Marriages, Events and Corporate Events.
+                We are having experience in this feild more the 5 years with humble beginnings and reached this
+                height through perseverance. You can find all the details about us and our menu below.</p>
             <p class="text-center to-animate"><a href="#fh5co-contact" class="btn btn-primary btn-outline">Get in touch</a></p>
         </div>
     </div>
@@ -122,7 +122,7 @@
                                     <img src="images/breakfast.png"  height="42" width="42" class = "image">
                                     <a href="#fh5co-menus">
                                     <div class="overlay">
-                                        <div class="text">Breakfast</div>
+                                        <div class="text" style="font-family:Comic Sans MS;">CLick here to see our Breakfast menu!</div>
                                     </div></a>
                                 </blockquote>   
                                 
@@ -132,8 +132,7 @@
                                     <img src="images/lunch.png"  height="42" width="42" class = "image">
                                     <a href="#fh5co-menus">
                                     <div class="overlay">
-                                        
-                                        <div class="text">Lunch</div>
+                                        <div class="text" style="font-family:Comic Sans MS;">CLick here to see our Lunch menu!</div>
                                     </div></a>
                                 </blockquote>
 							</li>
@@ -142,8 +141,7 @@
                                     <img src="images/snacks.png"  height="42" width="42" class = "image">
                                     <a href="#fh5co-menus">
                                     <div class="overlay">
-                                       
-                                        <div class="text">Snacks</div>
+                                        <div class="text" style="font-family:Comic Sans MS;">Click here to see our Snacks menu!</div>
                                     </div> </a>
 								</blockquote>
 							</li>
@@ -164,62 +162,62 @@
 				<div class="row text-center fh5co-heading row-padded">
 					<div class="col-md-8 col-md-offset-2">
 						<h2 class="heading to-animate">Featured Dishes</h2>
-						<p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+						<p class="sub-heading to-animate">Some of our very own popular recipies</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="fh5co-grid">
 						<div class="fh5co-v-half to-animate-2">
-							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_1.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/paneer.png)"></div>
 							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
-								<h2>Fresh Mushrooms</h2>
-								<span class="pricing">$7.50</span>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+								<h2>Paneer Gravy with assorted Indian bread</h2>
+								<span class="pricing">&#8377&#8377&#8377</span>
+								<p>*description*</p>
 							</div>
 						</div>
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_2.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/sambaar.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
-									<h2>Grilled Chiken Salad</h2>
-									<span class="pricing">$12.00</span>
-									<p>Far far away, behind the word mountains.</p>
+									<h2>Authentic South Indian Sambar</h2>
+									<span class="pricing">&#8377&#8377&#8377</span>
+									<p>*description*</p>
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_8.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/pulav.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
-									<h2>Cheese and Garlic Toast</h2>
-									<span class="pricing">$4.50</span>
-									<p>Far far away, behind the word mountains.</p>
+									<h2>Veg Pulav</h2>
+									<span class="pricing">&#8377&#8377&#8377</span>
+									<p>*description*</p>
 								</div>
 							</div>
 						</div>
 
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_7.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/bonda.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
-									<h2>Organic Egg</h2>
-									<span class="pricing">$4.99</span>
-									<p>Far far away, behind the word mountains.</p>
+									<h2>Mangalore bonda</h2>
+									<span class="pricing">&#8377&#8377&#8377</span>
+									<p>*description*</p>
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_6.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/samosa.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
-									<h2>Salad with Crispy Chicken</h2>
-									<span class="pricing">$8.50</span>
-									<p>Far far away, behind the word mountains.</p>
+									<h2>Samosa</h2>
+									<span class="pricing">&#8377&#8377&#8377</span>
+									<p>*description*</p>
 								</div>
 							</div>
 						</div>
 						<div class="fh5co-v-half to-animate-2">
-							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/res_img_3.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/dosa.png)"></div>
 							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
-								<h2>Tomato Soup with Chicken</h2>
-								<span class="pricing">$12.99</span>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+								<h2>Rava Dosa</h2>
+								<span class="pricing">&#8377&#8377&#8377</span>
+								<p>*description*</p>
 							</div>
 						</div>
 
@@ -235,8 +233,7 @@
             <div class="row text-center fh5co-heading row-padded">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading to-animate">Food Menu</h2>
-                    <p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries
-                        Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="sub-heading to-animate">Please refer to the given list below to find all the delicacies we cater for occasions!</p>
                 </div>
             </div>
             <section id="menu" class="parallax-section menu">
@@ -464,8 +461,7 @@
             <div class="row text-center fh5co-heading row-padded">
                 <div class="col-md-8 col-md-offset-2 to-animate">
                     <h2 class="heading">Upcoming Events</h2>
-                    <p class="sub-heading">Far far away, behind the word mountains, far from the countries Vokalia and
-                        Consonantia, there live the blind texts.</p>
+                    <p class="sub-heading">Some of the upcoming events we are proud to tell we will catering for! </p>
                 </div>
             </div>
             <div class="row">
@@ -505,8 +501,7 @@
             <div class="row text-center fh5co-heading row-padded">
                 <div class="col-md-8 col-md-offset-2">
                     <h2 class="heading to-animate">Contact Us</h2>
-                    <p class="sub-heading to-animate">Far far away, behind the word mountains, far from the countries
-                        Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="sub-heading to-animate">For any furthur queries or any booking please feel free to contact us or fill the form so we can contact you!</p>
                 </div>
             </div>
             <div class="row">
@@ -518,9 +513,9 @@
                             AEJAZ AVENUE, 149/ 40, 32ND C CROSS, 11th MAIN RD, 4th BLOCK EAST, JAYA NAGAR, Bengaluru,
                             Karnataka 560011
                         </li>
-                        <li><i class="icon-phone"></i> (123) 465-6789</li>
-                        <li><i class="icon-envelope"></i>info@freehtml5.co</li>
-                        <li><i class="icon-globe"></i> <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></li>
+                        <li><i class="icon-phone"></i>+91 83102 21142 / 93425 61128 </li>
+                        <li><i class="icon-envelope"></i>atulenterprisesrv2018@gmail.com</li>
+                        <li><i class="icon-globe"></i> <a href="http://freehtml5.co/" target="_blank">www.Atulenterprises.com</a></li>
                     </ul>
                 </div>
                 <div class="col-md-6 to-animate-2">
@@ -553,9 +548,9 @@
                             <textarea name="feedback" id="message" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
                         </div>
                         <div class="form-group">
-                            <label for="occation" class="sr-only">Occation</label>
+                            <label for="occation" class="sr-only">Occasion</label>
                             <select class="form-control" id="occation" name='selection'>
-                                <option>Select an Occation</option>
+                                <option>Select an Occasion</option>
                                 <option>Wedding Ceremony</option>
                                 <option>Birthday</option>
                                 <option>Others</option>
@@ -577,10 +572,8 @@
         <div class="container">
             <div class="row row-padded">
                 <div class="col-md-12 text-center">
-                    <p class="to-animate">&copy; 2016 Foodee Free HTML5 Template. <br> Designed by <a href="http://freehtml5.co/"
-                            target="_blank">FREEHTML5.co</a> Demo Images: <a href="http://pexels.com/" target="_blank">Pexels</a>
-                        <br> Tasty Icons Free <a href="http://handdrawngoods.com/store/tasty-icons-free-food-icons/"
-                            target="_blank">handdrawngoods</a>
+                    <p class="to-animate">&copy; Atul Enterprises <br>Designed by <a href="https://www.revaalo.com/"
+                            target="_blank">Revaalo</a>
                     </p>
                     <p class="text-center to-animate"><a href="#" class="js-gotop">Go To Top</a></p>
                 </div>
@@ -588,9 +581,9 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <ul class="fh5co-social">
-                        <li class="to-animate-2"><a href="#"><i class="icon-facebook"></i></a></li>
-                        <li class="to-animate-2"><a href="#"><i class="icon-twitter"></i></a></li>
-                        <li class="to-animate-2"><a href="#"><i class="icon-instagram"></i></a></li>
+                        <li class="to-animate-2"><a href="https://www.facebook.com/ATUL-Enterprises-Catering-Service-295002764516553/"><i class="icon-facebook"></i></a></li>
+                        <li class="to-animate-2"><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+                        <li class="to-animate-2"><a href="https://www.instagram.com/"><i class="icon-instagram"></i></a></li>
                     </ul>
                 </div>
             </div>
