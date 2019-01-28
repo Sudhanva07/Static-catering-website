@@ -9,7 +9,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Foodee &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+    <title>Atul Enterprises Catering Serivice</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
     <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -95,7 +95,7 @@
 
 
     <div id="fh5co-about" data-section="home">
-        <div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(images/foodee.png)"></div>
+        <div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(images/caterers.png)"></div>
         <div class="fh5co-2col fh5co-text">
             <h2 class="heading to-animate">About Us</h2>
             <p class="to-animate"><span class="firstcharacter">W</span>introduce ourselves as the leading Caterer in
@@ -162,26 +162,26 @@
 				<div class="row text-center fh5co-heading row-padded">
 					<div class="col-md-8 col-md-offset-2">
 						<h2 class="heading to-animate">Featured Dishes</h2>
-						<p class="sub-heading to-animate">Some of our very own popular recipies</p>
+						<p class="sub-heading to-animate">We specalize in recipies with <strong>millets</strong>, which is healthier and tastier.</p>
 					</div>
 				</div>
 				<div class="row">
 					<div class="fh5co-grid">
 						<div class="fh5co-v-half to-animate-2">
-							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/paneer.png)"></div>
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/ragirotti.png)"></div>
 							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
-								<h2>Paneer Gravy with assorted Indian bread</h2>
+								<h2>Ragi Rotti</h2>
 								<span class="pricing">&#8377&#8377&#8377</span>
-								<p>*description*</p>
+								<p>Ragi Roti made from finger millet from India is extremely rich in proteins served with pickle or achar</p>
 							</div>
 						</div>
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/sambaar.png)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/ragimillet.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
-									<h2>Authentic South Indian Sambar</h2>
+									<h2>Ragi Upma</h2>
 									<span class="pricing">&#8377&#8377&#8377</span>
-									<p>*description*</p>
+									<p>Created using finger millet & ragi</p>
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
@@ -196,11 +196,11 @@
 
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/bonda.png)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/pongal.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
-									<h2>Mangalore bonda</h2>
+									<h2>Pongal</h2>
 									<span class="pricing">&#8377&#8377&#8377</span>
-									<p>*description*</p>
+									<p>Pongal, a south Indian, vegetarian, and healthy breakfast, made using foxtail millet.</p>
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 to-animate-2">
@@ -461,7 +461,7 @@
             <div class="row text-center fh5co-heading row-padded">
                 <div class="col-md-8 col-md-offset-2 to-animate">
                     <h2 class="heading">Upcoming Events</h2>
-                    <p class="sub-heading">Some of the upcoming events we are proud to tell we will catering for! </p>
+                    <p class="sub-heading">Some of the upcoming events we are proud to tell we will be lcatering for! </p>
                 </div>
             </div>
             <div class="row">
@@ -469,8 +469,7 @@
                     <div class="fh5co-event to-animate-2">
                         <h3>Kitchen Workshops</h3>
                         <span class="fh5co-event-meta">March 19th, 2016</span>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                            there live the blind texts.</p>
+                        <p>*Upcoming*</p>
                         
                     </div>
                 </div>
@@ -478,8 +477,7 @@
                     <div class="fh5co-event to-animate-2">
                         <h3>Music Concerts</h3>
                         <span class="fh5co-event-meta">March 19th, 2016</span>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                            there live the blind texts.</p>
+                        <p>*Upcoming*</p>
                         
                     </div>
                 </div>
@@ -487,8 +485,7 @@
                     <div class="fh5co-event to-animate-2">
                         <h3>Free to Eat Party</h3>
                         <span class="fh5co-event-meta">March 19th, 2016</span>
-                        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia,
-                            there live the blind texts.</p>
+                        <p>*Upcoming*</p>
                         
                     </div>
                 </div>
@@ -582,7 +579,7 @@
                 <div class="col-md-12 text-center">
                     <ul class="fh5co-social">
                         <li class="to-animate-2"><a href="https://www.facebook.com/ATUL-Enterprises-Catering-Service-295002764516553/"><i class="icon-facebook"></i></a></li>
-                        <li class="to-animate-2"><a href="https://twitter.com/"><i class="icon-twitter"></i></a></li>
+                        <li class="to-animate-2"><a href="https://twitter.com/AtulService/"><i class="icon-twitter"></i></a></li>
                         <li class="to-animate-2"><a href="https://www.instagram.com/"><i class="icon-instagram"></i></a></li>
                     </ul>
                 </div>
