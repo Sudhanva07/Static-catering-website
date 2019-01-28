@@ -249,9 +249,9 @@
                             <!-- Nav tabs -->
 
                             <ul class="nav nav-tabs nav-justified">
-                                <li class="nav-item"><a class="nav-link active" href="#Breakfast" data-toggle="tab">Daily Breakfast</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#Lunch" data-toggle="tab">Daily lunch</a></li>
-                                <li class="nav-item"><a class="nav-link" href="#Snacks" data-toggle="tab">Daily Snacks</a></li>
+                                <li class="nav-item"><a class="nav-link active" href="#Breakfast" data-toggle="tab"><strong>Daily Breakfast</strong></a></li>
+                                <li class="nav-item"><a class="nav-link" href="#Lunch" data-toggle="tab"><strong>Daily lunch</strong></a></li>
+                                <li class="nav-item"><a class="nav-link" href="#Snacks" data-toggle="tab"><strong>Daily Snacks</strong></a></li>
                             </ul>
 
                         </div>
@@ -512,7 +512,7 @@
                         </li>
                         <li><i class="icon-phone"></i>+91 83102 21142 / 93425 61128 </li>
                         <li><i class="icon-envelope"></i>atulenterprisesrv2018@gmail.com</li>
-                        <li><i class="icon-globe"></i> <a href="http://freehtml5.co/" target="_blank">www.Atulenterprises.com</a></li>
+                        <li><i class="icon-globe"></i> <a href="#" target="_blank">www.Atulenterprises.com</a></li>
                     </ul>
                 </div>
                 <div class="col-md-6 to-animate-2">
