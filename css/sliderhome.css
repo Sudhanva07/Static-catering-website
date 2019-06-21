@@ -1,0 +1,98 @@
+#nav-bar{
+    z-index: 2;
+    align-items: center;
+    height: 12%;
+    align-content: center; 
+    width:100%;
+    text-align: center; 
+}
+#content .row{
+    margin-top:30px;
+    margin-bottom: 30px;
+}
+#content .col-md-4{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.co{
+    margin:auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.logo{
+    text-align: center;
+    width: 19.33%;
+    font-size: 40px;
+    font-family: "Playfair Display", serif;
+    font-weight: 700;
+    font-style: italic;
+    color: #222;
+    /* text-decoration: none; */
+}
+.logo:hover{
+    color: #222;
+}
+#content{
+    /* background-image: url("../images/wood_1.png"); */
+    background-color: #191919;
+    padding-bottom: 20px;
+
+}
+
+#headings{
+    padding-top: 10px;
+    margin-top: 10px;
+    color: white;
+    font-family:"Playfair Display", serif;
+    font-size: 50px;
+    font-style: italic;
+    border-bottom: 3px solid #F16104;
+    width:20%;
+    /* text-decoration-color: #F16104; */
+}
+
+
+#nav{
+    color:#130d08;
+    text-decoration: none;
+    font-family: "Merriweather", serif;
+    font-size: 22px;
+    font-style: normal;
+  }
+  
+  #nav:hover{
+    color: #F16104;
+  
+  }
+
+  body{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    font-kerning: auto;
+  }
+  
+
+.card-text{
+    color:#222;
+    font-size: 10px;
+}
+.card-deck{
+    margin-top:20px;
+    margin-bottom: 20px;
+    
+}
+.card-title{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.menu-png{
+    margin-top:20px;
+    padding-top:20px;
+    
+}
+img{
+    image-resolution: initial;
+}
+

@@ -48,6 +48,50 @@
 .container3:hover .overlay3 {
   opacity: 0.5;
 }*/
+
+
+
+
+
+
+
+.thumbnail{
+  box-shadow: 0px 5px 5px #d1d1d1;
+  position: relative;
+  background-color: #fff;
+}
+.thumbnail:hover .imgoverlay{
+  opacity: 0.1;
+  transition: .4s ease-in-out;
+}
+
+.thumbnail:hover .overlayed_text{
+  opacity: 1;
+  transition: .3s ease-in-out;
+  color: #bf4c03;
+}
+.thumbnail:hover{
+  background-color: rgba(241,97,4,.1);
+  transition: .4s ease-in-out;  
+}
+
+
+
+.overlayed_text{
+  position: absolute;
+  align-content: center;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  transform: translate(-50%, -50%);
+}
+
+  #sliderflex{
+    width:50%;
+    height: 50%;
+  }
+
+
 blockquote {
   position: relative;
   /* width: 50%; */
@@ -142,7 +186,7 @@ td{
 }
 body {
   font-family: "Merriweather", serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 2;
   color: #5e493a;
@@ -911,7 +955,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0401-vegan.png) no-repeat;
+  /* background: url(../images/0401-vegan.png) no-repeat; */
   top: 0;
   left: 50%;
   margin-top: -50px;

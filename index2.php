@@ -11,6 +11,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Atul Enterprises Catering Serivice</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
+    <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
+    <meta name="author" content="FREEHTML5.CO" />
 
     <!-- 
 	//////////////////////////////////////////////////////
@@ -54,7 +57,6 @@
     <link rel="stylesheet" href="css/bootstrap.css">
 
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/sliderhome.css">
 
 
     <!-- Modernizr JS -->
@@ -93,19 +95,10 @@
 
 
     <div id="fh5co-about" data-section="home">
-        <div class="fh5co-2col fh5co-bg to-animate-2">
-            <div class="container" id="sliderhome">    
-                
-                <img class="mySlides" src="images/ragimillet.jpg">
-                <img class="mySlides" src="images/pulav.jpg">
-                <img class="mySlides" src="images/pongal.jpg">
-                <img class="mySlides" src="images/samosa.jpg">
-
-            </div>  
-        </div>
+        <div class="fh5co-2col fh5co-bg to-animate-2" style="background-image: url(images/caterers.png)"></div>
         <div class="fh5co-2col fh5co-text">
             <h2 class="heading to-animate">About Us</h2>
-            <p class="to-animate"><span class="firstcharacter">W</span>e introduce ourselves as the leading Caterer in
+            <p class="to-animate"><span class="firstcharacter">W</span>introduce ourselves as the leading Caterer in
                 Bangalore. We deal with vegetarian food like Mogulai ,Chinese ,North Indian ,South Indian and
                 we are specialised in Andhra Style dishes.Currently we supply Lunch and Snacks for Corporate companies. We  also do cater to
                 Parties, Marriages, Events and Corporate Events.
@@ -114,9 +107,9 @@
             <p class="text-center to-animate"><a href="#fh5co-contact" class="btn btn-primary btn-outline">Get in touch</a></p>
         </div>
     </div>
-   
+
     <div id="fh5co-sayings">
-			<div class="container" id = "sliderflex" >
+			<div class="container" >
 				<div class="row to-animate">
 
 					<div class="flexslider" >
@@ -126,50 +119,29 @@
 							<li class="image1">
                                 
 								<blockquote>
-                                    <img src="images/breakfast.jpg"  class = "image">
+                                    <img src="images/breakfast.png"  height="42" width="42" class = "image">
                                     <a href="#fh5co-menus">
                                     <div class="overlay">
+                                        <div class="text" style="font-family:Comic Sans MS;">CLick here to see our Breakfast menu!</div>
                                     </div></a>
                                 </blockquote>   
                                 
 							</li>
 							<li Class="image2">
 								<blockquote>
-                                    <img src="images/lunch.png"  class = "image">
+                                    <img src="images/lunch.png"  height="42" width="42" class = "image">
                                     <a href="#fh5co-menus">
                                     <div class="overlay">
+                                        <div class="text" style="font-family:Comic Sans MS;">CLick here to see our Lunch menu!</div>
                                     </div></a>
                                 </blockquote>
 							</li>
 							<li Class="image3">
 								<blockquote>
-                                    <img src="images/samosa.jpg"  class = "image">
+                                    <img src="images/snacks.png"  height="42" width="42" class = "image">
                                     <a href="#fh5co-menus">
                                     <div class="overlay">
-                                    </div> </a>
-								</blockquote>
-							</li>
-                            <li Class="image4">
-								<blockquote>
-                                    <img src="images/Andra_rolling.jpg"  class = "image">
-                                    <a href="#fh5co-menus">
-                                    <div class="overlay">
-                                    </div> </a>
-								</blockquote>
-							</li>
-                            <li Class="image5">
-								<blockquote>
-                                    <img src="images/Andra_snacks.jpg"  class = "image">
-                                    <a href="#fh5co-menus">
-                                    <div class="overlay">
-                                    </div> </a>
-								</blockquote>
-							</li>
-                            <li Class="image6">
-								<blockquote>
-                                    <img src="images/Millets_rolling.jpg"  class = "image">
-                                    <a href="#fh5co-menus">
-                                    <div class="overlay">
+                                        <div class="text" style="font-family:Comic Sans MS;">Click here to see our Snacks menu!</div>
                                     </div> </a>
 								</blockquote>
 							</li>
@@ -179,12 +151,12 @@
 				</div>
 			</div>
 		</div>
-    </div>
 
+   
 		
 
 		
-    <div>
+
 		<div id="fh5co-featured" data-section="features">
 			<div class="container">
 				<div class="row text-center fh5co-heading row-padded">
@@ -205,7 +177,7 @@
 						</div>
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/ragimillet.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/ragimillet.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
 									<h2>Ragi Upma</h2>
 									<span class="pricing">&#8377&#8377&#8377</span>
@@ -213,9 +185,9 @@
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/FOXTAIL_MILLET_RAVA_IDLIS.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/pulav.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
-									<h2>Fox Tail Millet Rava Idli</h2>
+									<h2>Veg Pulav</h2>
 									<span class="pricing">&#8377&#8377&#8377</span>
 									<p>*description*</p>
 								</div>
@@ -224,26 +196,26 @@
 
 						<div class="fh5co-v-half">
 							<div class="fh5co-h-row-2 fh5co-reversed to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/carrier_feature.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/pongal.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-right">
 									<h2>Pongal</h2>
 									<span class="pricing">&#8377&#8377&#8377</span>
-									<p>We provide carrier services.</p>
+									<p>Pongal, a south Indian, vegetarian, and healthy breakfast, made using foxtail millet.</p>
 								</div>
 							</div>
 							<div class="fh5co-h-row-2 to-animate-2">
-								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/little-millet-featured.jpg)"></div>
+								<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/samosa.png)"></div>
 								<div class="fh5co-v-col-2 fh5co-text arrow-left">
-									<h2>Little Millet – A dietary superfood</h2>
+									<h2>Samosa</h2>
 									<span class="pricing">&#8377&#8377&#8377</span>
-									<p>Little Millet, Samalu, Sama or Samai rice, is a commonly used grain in the southern part of India. As a member of the small millets group, it is known to be nutritionally superior to rice and wheat.</p>
+									<p>*description*</p>
 								</div>
 							</div>
 						</div>
 						<div class="fh5co-v-half to-animate-2">
-							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/pulav.jpg)"></div>
+							<div class="fh5co-v-col-2 fh5co-bg-img" style="background-image: url(images/dosa.png)"></div>
 							<div class="fh5co-v-col-2 fh5co-text fh5co-special-1 arrow-left">
-								<h2>Pulav</h2>
+								<h2>Rava Dosa</h2>
 								<span class="pricing">&#8377&#8377&#8377</span>
 								<p>*description*</p>
 							</div>
@@ -260,7 +232,6 @@
         <div class="container">
             <div class="row text-center fh5co-heading row-padded">
                 <div class="col-md-8 col-md-offset-2">
-                <img src="images/0401-vegan.png" class="menu-png">
                     <h2 class="heading to-animate">Food Menu</h2>
                     <p class="sub-heading to-animate">Please refer to the given list below to find all the delicacies we cater for occasions!</p>
                 </div>
@@ -269,69 +240,217 @@
 
                 <div class="container">
                     <div class="row">
-                        <div class="col-xs-6 col-md-4">
-                            <a href="AndraMenu.html" class="thumbnail">
+                        <div class="col-md-offset-2 col-md-8 col-sm-12 text-center">
+                            <hr>
+                        </div>
+
+                        <div class="col-sm-12">
+                            <!-- required for floating -->
+                            <!-- Nav tabs -->
+
+                            <ul class="nav nav-tabs nav-justified">
+                                <li class="nav-item"><a class="nav-link active" href="#Breakfast" data-toggle="tab"><strong>Daily Breakfast</strong></a></li>
+                                <li class="nav-item"><a class="nav-link" href="#Lunch" data-toggle="tab"><strong>Daily lunch</strong></a></li>
+                                <li class="nav-item"><a class="nav-link" href="#Snacks" data-toggle="tab"><strong>Daily Snacks</strong></a></li>
+                            </ul>
+
+                        </div>
+
+                        <div class="col-md-12 to-animate">
+                            <!-- Tab panes -->
+                            <div class="tab-content" width="100%">
+                                <div class="tab-pane" id="Lunch">
+                                    <table class="table" width="100%">
+                                    
+                                            <h2>Standard Daily Lunch/ Dinner Menu</h2>
+                                            <h3>Kindly Choose the required items only and send to us for Best Quote</h3>
+                                       <tr>
+                                            <th>Salad</th>
+                                            <td><ul>
+                                            <li>Fresh Green Salad</li>
+                                            <li>Sprouts</li>
+                                            <li>Kosumbary</li>
+                                            <li>Corn + Peanut + Pomegranate</li>
+                                            </ul></td>
+                                       </tr>
+                                       <tr>
+                                            <th>Indian Breads</th>
+                                            <td><ul>
+                                            <li>Chapati</li>
+                                            <li>Methi Chapati</li>
+                                            <li>Pulka</li>
+                                            <li>Poori</li>
+                                            <li>Paratha</li>
+                                            <li>dosa</li>
+                                            <li>Ragi Roti</li>
+                                            <li>Millets Roti</li>
+                                            <li>Roomali Roti</li>
+                                            <li>Tandoori</li>
+                                            </ul></td>
+                                       </tr>
+                                       <tr>
+                                       <th>North and South Gravies:</th>
+                                       <td>
+                                           <ul>
+                                               <li>Mix veg sagu</li>
+                                               <li>Paneer Gravy</li>
+                                               <li>Mushroom Masala</li>
+                                               <li>Paneer Kadai</li>
+                                               <li>Aloo Gobi</li>
+                                               <li>Fresh green peice masala</li>
+                                               <li>Rajma</li>
+                                               <li>Veg Kadai</li>
+                                               <li>Aloo Bhendi Masala</li>
+                                           </ul>
+                                       </td>
+                                       </tr>
+                                       <tr>
+                                       <th>Dal Varities</th>
+                                       <td>
+                                           <ul>
+                                               <li> Dal Palak</li>
+                                               <li>Dal Makhani</li>
+                                               <li>Dal Fry</li>
+                                               <li>Dal Thadka</li>
+                                               <li>Masala Dal</li>
+                                               <li>Tomato Dal</li>
+                                           </ul>
+                                       </td>
+                                       </tr>
+                                       <tr>
+                                       <th>Sambar(Huli/Kolombo)</th>
+                                       <td>
+                                           <ul>
+                                               <li>Drumstick</li>
+                                               <li>Mix Veg</li>
+                                               <li>small onion </li>
+                                           </ul>
+                                       </td>
+                                       </tr>
+                                       <tr>
+                                       <th>Rasam Varities</th>
+                                       <td>
+                                           <ul>
+                                               <li>Mysore Rasam</li>
+                                               <li>pepper </li>
+                                               <li>dal rasam </li>
+                                           </ul>
+                                       </td>
+                                       </tr>
+                                       <th>Side's </th>
+                                       <td>
+                                           <ul>
+                                               <li>Pineapple Gojju</li>
+                                               <li>Tamota Chutney</li>
+                                               <li>Gongura Chutney</li>
+                                               <li>Assorted Chutney </li>
+                                               <li>Chutney Powder </li>
+                                           </ul>
+                                       </td>
+                                       </tr>
+                                       <th>Flavoured Rice</th>
+                                       <td>
+                                           <ul>
+                                               <li>Ghee Rice</li>
+                                               <li>Special Millets Bath</li>
+                                               <li>Jeera Rice</li>
+                                               <li>Tomato Rice</li>
+                                               <li>Lemon Rice</li>
+                                               <li>Methi Rice</li>
+                                               <li>Vangibath</li>
+                                               <li>Pulihogre</li>
+                                               <li>Veg Biriyani</li>
+                                           </ul>
+                                       </td>
+                                       </tr>
+
+                                    </table>
+                                </div>
+                                <!-- wedding -->
+                                <div class="tab-pane active" id="Breakfast">
+                                    <table class="table" width="100%">
+                                    
+                                            <h2>Standard Daily Lunch/ Dinner Menu</h2>
+                                            <h3>Kindly Choose the required items only and send to us for Best Quote</h3>
+                                            <tr>
+                                                
+                                                    <th>Idli 2No's/( Millets Idli)+Vada 1No+Sambar+Chutney</th></tr>
+                                                    <th>Assorted Dosa/(Millets Dosa)+Sambar+Chutney+Sagu</th></tr>
+                                                    <th>Chow Chow Bath/(Millets)+Chutney</th></tr>
+                                                    <th>Assorted Pulav+Rice Bath+Raitha+Chutney</th></tr>
+                                                    <th>Semiya Bath+Masala Vada+Chutney</th></tr>
+                                                    <th>Poori 3No's+Bombay Sagu+Chutney</th></tr>
+                                                    <th>Poha+Masala vada+Chutney</th></tr>
+                                                    <th>Batura+Channa Masala</th></tr>
+                                                    <th>Rava Idli+Sagu+Chutney</th></tr>
+                                                    <th>Neer Dosa+ Tamato Chutney</th></tr>
+                                                    <th>Paratha 2 No's(Aloo/Gobi/ Onion Methi)+Curd</th></tr>
+                                                    <th>Pongal + Raitha + Chutney</th></tr>
+                                                    <th>Bisibele Bath + Boondhi + Raitha</th></tr>
+                                                    <th>Mangalore Bonda+ Sambar+ Chutney</th></tr>
+                                            
+                                            </tr>
+                                        </table>
+                                    </div>
+                                <!-- house-warming -->
+                                <div class="tab-pane" id="Snacks">
+                                    <table class="table" width="100%">
+                                    
+                                            <h2>Standard Daily Lunch/ Dinner Menu</h2>
+                                            <h3>Kindly Choose the required items only and send to us for Best Quote</h3>
+                                            <tr>
+                                                <th>Assorted Bhajies + Chutney</th>
+                                            </tr>
+                                            <tr>
+                                                <th>Assorted Pakodas + Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Dhahi vada + Sweet</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg samosa + Sweet Chutney + Khara Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Kachories + Sweet Chutney + Khara Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Banana buns + Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg Puffs + Sauce</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg Rolls + Sauce</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Masala Vada + Chutney</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Masala Bun + Saucey</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Onion Pakoda+ Palak Pakoda</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Assorted bhajji or Vadas</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Veg Cutlet</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Assorted Rolls</th>
+                                                </tr>
+                                            <tr>
+                                                <th>Assorted Veg Bonda + Chutney</th>
+
+                                            </tr>
+                                        
+                                    </table>
+
+                                </div>
+                               
                             
-                             <img class="imgoverlay" src="images/caterers.jpg" alt="...">
-                                <p class="overlayed_text">Andra Menu</p>
-                            </a>
-                        </div>
-                        <div class="col-xs-6 col-md-4">
-                            <a href="NorthIndian.html" class="thumbnail">
-                                
-                                <img class="imgoverlay" src="images/North_Indian.jpg" alt="...">
-                                <p class="overlayed_text">North Indian</p>
-                            </a>
-                        </div>
-                        <div class="col-xs-6 col-md-4">
-                            <a href="Millets.html" class="thumbnail">
-                                
-                                <img class="imgoverlay" src="images/ragimillet.jpg" alt="...">
-                                <p class="overlayed_text">Millets</p>
-                            </a>
-                        </div>
-                    </div>
-                    <span class="collapse" id="viewdetails3">
-                    <div class="row">
-                        <div class="col-xs-6 col-md-4">
-                            <a href="Snacks.html" class="thumbnail">
-                            
-                             <img class="imgoverlay" src="images/samosa.jpg" alt="...">
-                                <p class="overlayed_text">Snacks</p>
-                            </a>
-                        </div>
-                        <div class="col-xs-6 col-md-4">
-                            <a href="Tiffins.html" class="thumbnail">
-                                
-                                <img class="imgoverlay" src="images/tiffens_holder.jpg" alt="...">
-                                <p class="overlayed_text">Tiffins</p>
-                            </a>
-                        </div>
-                        <div class="col-xs-6 col-md-4">
-                            <a href="Functions.html" class="thumbnail">
-                                
-                                <img class="imgoverlay" src="images/function.jpg" alt="...">
-                                <p class="overlayed_text">Functions Menu</p>
-                            </a>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-xs-6 col-md-4">
-                        </div>
-                        <div class="col-xs-6 col-md-4">
-                            <a href="coorporateMenu.html" class="thumbnail">
-                                
-                                <img class="imgoverlay" src="images/caterers.png" alt="...">
-                                <p class="overlayed_text">Corporate Menu</p>
-                            </a>
-                        </div>
-                        <div class="col-xs-6 col-md-4">
-                        </div>
-                    </div>
-                </span>     
-                    <p class="text-center to-animate" id="view-more" onclick="hide();"><a data-toggle="collapse" data-target="#viewdetails3" href="#menu" class="btn btn-primary btn-outline">View More</a></p>
-                            
-                </div>        
+                        
             </section>
         </div>
     </div>
@@ -486,7 +605,6 @@
     <script src="js/jquery.waypoints.min.js"></script>
     <!-- Stellar Parallax -->
     <script src="js/jquery.stellar.min.js"></script>
-    <script src="js/sliderhome.js"></script>
 
     <!-- Flexslider -->
     <script src="js/jquery.flexslider-min.js"></script>
